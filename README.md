@@ -71,7 +71,7 @@
 
 ## Config ##
 
-配置目录：./conf/info.conf
+配置目录：./lib/config.py
 
 	REDIS_HOST = '111.111.11.111'
 	REDIS_PORT = 6379
